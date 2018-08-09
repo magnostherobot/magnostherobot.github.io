@@ -1,1 +1,11 @@
 remote_theme: chesterhow/tale
+
+title: My Website
+email: magtherob@gmail.com
+description: >
+    My website, where I might write things, maybe.
+url: "https://magnostherobot.github.io"
+github_username: magnostherobot
+
+markdown: kramdown
+permalink: /:year/:title:output_ext
