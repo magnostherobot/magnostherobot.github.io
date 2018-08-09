@@ -9,3 +9,9 @@ github_username: magnostherobot
 
 markdown: kramdown
 permalink: /:year/:title:output_ext
+
+paginate: 5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
