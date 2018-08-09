@@ -8,7 +8,7 @@ url: "https://magnostherobot.github.io"
 github_username: magnostherobot
 
 markdown: kramdown
-permalink: /:year/:title:output_ext
+permalink: /:year-:month-:day/:title
 
 paginate: 5
 
