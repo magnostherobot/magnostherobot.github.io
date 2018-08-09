@@ -1,5 +1,8 @@
 ---
+layout: post
 title: Let's Begin, I Guess
+date: 2018-08-09 02:26:00 +0000
+categories: meta
 ---
 
 I have a couple of reasons for creating this site.
@@ -15,16 +18,16 @@ The most recent example of this, would be my most recent attempt (of many) to
 make a game. I'm very much not fond of "slow" games, and in some kind of
 zealotry always dismiss user-friendly engines like Unity, because I know that I
 could make a game run faster using an engine like SDL. But then, I find out that
-SDL isn't the most efficient when drawing text to the screen. Before I know it,
-I'm sitting in front of 300 lines of OpenGL library calls and can't even get a
-triangle on the screen.
+[SDL isn't the most efficient at drawing text to the screen](https://stackoverflow.com/questions/29064904/how-to-render-fonts-and-text-with-sdl2-efficiently).
+Before I know it, I'm sitting in front of 300 lines of OpenGL library calls and
+can't even get a triangle on the screen.
 
 I know I always make things hard for myself: in the tradeoff between _something
 perfect_ and _something finished_, I always pick the former option. It happens
 every time, and I see it happening, this endless loop of idea to bikeshed to
 giving up, yet I let it happen all the same.
 
-<video width="99%" height="540" autoplay loop muted>
+<video width="50%" align="center" autoplay loop muted>
 <source src="{{ site.baseurl }}/assets/video/again.mp4" type="video/mp4">
 </video>
 
