@@ -26,6 +26,7 @@ Yo, I'm Tom Harley, and in most places online I'm magnostherobot. I like
 - [machines](https://github.com/magnostherobot/machines) - A Turing Machine
     interpreter/pseudo-compiler written in Nim, with support for
     non-deterministic machines.
+- [This site](https://github.com/magnostherobot/magnostherobot.github.io)!
 
 # Contacting Me
 
